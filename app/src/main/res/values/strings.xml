@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">SplashProject</string>
     <string name="todo">TODO</string>
+    <string name="df">TODO</string>
+    <string name="hello">Hello</string>
 </resources>
